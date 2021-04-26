@@ -181,8 +181,9 @@ header .intro-text {
 	padding: 120px 0;
 }
 #about .about-text {
-	margin-left: 10px;
+	margin-left: 12px;
 	text-align: center;
+	font-size: 18px
 }
 #about img {
 	border-radius: 50%;
