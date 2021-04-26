@@ -1,1 +1,0 @@
-I made this portfolio from a boiler plate template. I edited it to be succinct for future employers to view. 
